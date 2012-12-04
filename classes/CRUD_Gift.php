@@ -5,6 +5,7 @@ global $wpdb;
 if ( isset( $_POST['submit'] ) ) {
 //wtfddddd
 //ttttttt
+//гшуршгурагу
 	$valid = new Validator;
 	$rules = array(
 		array(
