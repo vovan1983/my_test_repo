@@ -1,0 +1,26 @@
+#add-gift-form{
+	padding-top: 25px;
+}
+.gift-active{
+	border: none!important;
+	width:15px!important;
+}
+.error_gift{
+	font-size: 7.5px!important;
+	color: crimson!important;
+	margin: 0!important;
+}
+.gift-cancel{
+	float: right;
+	padding-top: 5px!important;;
+	margin-top: 3px;
+	padding-right: 10px;
+	margin-right: 24px!important;;
+	height: 15px;
+	padding-bottom: 5px!important;;
+}
+.gift-edit{
+	float:left;
+	margin-top: 4px;
+}
+
