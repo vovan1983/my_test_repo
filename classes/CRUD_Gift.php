@@ -8,6 +8,7 @@ if ( isset( $_POST['submit'] ) ) {
 //гшуршгурагу
 
 //branch update
+//branch up1
 	$valid = new Validator;
 	$rules = array(
 		array(
