@@ -3,12 +3,8 @@
 global $wpdb;
 
 if ( isset( $_POST['submit'] ) ) {
-//wtfddddd
-//ttttttt
-//гшуршгурагу
-
-//branch update
-//branch up1
+///this
+//is edit  from repo
 	$valid = new Validator;
 	$rules = array(
 		array(
